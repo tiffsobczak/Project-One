@@ -20,7 +20,7 @@ A UI that allows you to search for any Pokemon and retrieve it's statistics and 
 
 * Go to the repository and clone it to the directory that would like to have it in. Open the index.html in the default browser and run the application!
 
-:link: https://clairedelargy.github.io/Project-One/
+:link: https://tiffsobczak.github.io/Project-One/
 
 ## Contributors
 
